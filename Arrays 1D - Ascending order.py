@@ -43,6 +43,7 @@ Explanation 1
 Here we can compare the 1st value(6)with all the other values,6 is greater than 3 and hence 6 will get printed in the second position.
 Repeat the same process for all the remaining values to get the output in sorted order.
 
+                       
 Python Code:
 
 def bubble_sort(arr):
