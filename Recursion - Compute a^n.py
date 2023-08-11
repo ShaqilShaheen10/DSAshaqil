@@ -1,5 +1,4 @@
 Recursion - Compute a^n
-
 When the inventor of the game showed the game to the emperor of India, the emperor was so impressed by the new game, that he said to the man "Name your reward!" 
 The man responded, "Oh emperor, my wishes are simple. I only wish for this. Give me one grain of rice for the first square of the chessboard, 2^2 for the next
 square, 3^3 for the next, 4^4 for the next, and so on for all 64 squares". The emperor agreed, amazed that the man had asked for such a small reward. After a week,
