@@ -1,5 +1,4 @@
 Control Statements - Hollow square pattern
-
 Write a program to print the hollow square pattern.
 
 Input Format
