@@ -1,5 +1,4 @@
 Arrays 1D - Ascending order
-
 Kailash and his daughter Keerthana were arguing about who is the smartest person in the family. Kailash who is a world-known Computer Engineer 
 asked Keerthana who has not yet completed college to write a program to sort the given array in ascending order. Can you help Keerthana?
 
