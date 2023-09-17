@@ -1,5 +1,4 @@
 Logic Game: No Repeated Letters
-
 Rick is a fan of logic-based games. However, he is bored of the classic ones, like Sudoku 
 and Mastermind, since he has solved so many of them. Recently he found a new game in which one 
 is given a string with some question marks in it. The objective is to replace all of the question 
