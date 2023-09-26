@@ -1,5 +1,4 @@
 Arrays 1D - Count distinct elements
-
 Harish and Rajesh were developing a plan to find the ideal woman for Sheldon Cooper. There were puzzles, translations, and questions to check a person's
 intelligence. One such question was to come up with a program to count the number of distinct elements in an array. Harini is a postdoctoral researcher
 and a former graduate student of Caltech who is a huge fan of Sheldon's work and she wanted to impress Sheldon by writing a program to count the number of
