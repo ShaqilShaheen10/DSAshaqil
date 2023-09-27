@@ -1,5 +1,4 @@
 Arrays 1D - Sum of even numbers and odd numbers
-
 Mahe and Mani are playing a puzzle game with a given set of numbers. They need to find the sum of the odd number and the even number. 
 Write a program to help them to solve the puzzle game.
 
