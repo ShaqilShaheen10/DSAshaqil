@@ -1,5 +1,4 @@
 Arrays 1D - Remove duplicate elements
-
 Jack and John were investigating a murder and the murderer was Ms.Isha Adler. She wanted Jack to find her by solving the puzzles. Jack was able to solve all 
 but one. The last task was to write a program to remove duplicate elements from an array. Can you help Jack?
 
