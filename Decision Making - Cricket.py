@@ -4,7 +4,6 @@ They finished batting with a score of X. Next, Chennai started to bat and scored
 and check whether there is a probability for Chennai to win or not. Help him calculate the run rate and check the probability.
 
 Input Format
-
 Input consists of 4 integers. The first input corresponds to the total number of balls. The second input corresponds to the total number of runs.
 The third input corresponds to the number of runs scored. The fourth input corresponds to the number of balls bowled.
 
