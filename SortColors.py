@@ -1,5 +1,6 @@
 Sort Colors(LeeTCode)
-To solve this problem, we can use the "Dutch National Flag" algorithm, which is a one-pass algorithm that sorts an array containing three distinct elements. In this case, the three distinct elements are 0, 1, and 2, representing the colors red, white, and blue.
+To solve this problem, we can use the "Dutch National Flag" algorithm, which is a one-pass algorithm that sorts an array containing three distinct elements. 
+In this case, the three distinct elements are 0, 1, and 2, representing the colors red, white, and blue.
 
 Here's the step-by-step approach to implement the algorithm:
 
@@ -13,7 +14,8 @@ and right to the end of the array (index n-1), where n is the length of the arra
 7.At this point, the array will be sorted in the required order.
 
   
-Python code
+Python code:
+
 class Solution:
     def sortColors(self, nums: List[int]) -> None:
         low,mid,high=0,0,len(nums)-1
