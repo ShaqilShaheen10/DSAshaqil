@@ -1,5 +1,4 @@
 Arrays 1D - Compatible array
-
 Two arrays are said to be compatible if they are of the same size and if the ith element in the first array is greater than or equal to the ith element in the
 second array for all the values of i. Write a program to find whether 2 arrays are compatible or not.
 
