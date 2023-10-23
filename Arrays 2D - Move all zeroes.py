@@ -1,5 +1,4 @@
 Arrays 2D - Move all zeroes
-
 Write a program to move all zeroes to the end of a given integer.
 
 Input Format
