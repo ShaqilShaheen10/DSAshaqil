@@ -5,11 +5,9 @@ puzzle so that she celebrates her birthday happily. If her birth year is 1995 an
 “1995 is not a leap year.”
 
 Input Format
-
 The input consists of 1 integer.
 
 Output Format
-
 The output consists of 1 string.
 
 Sample Input 0
