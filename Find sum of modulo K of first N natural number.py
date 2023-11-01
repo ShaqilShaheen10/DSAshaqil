@@ -5,9 +5,6 @@ Input Format
 First Line Integer N
 Second Line Integer K
 
-Constraints
-no
-
 Output Format
 Integer with sum
 
