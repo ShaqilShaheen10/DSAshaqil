@@ -1,5 +1,4 @@
 Control Statements - Kaprekar number
-
 Jaffer wanted to excel in Math. He was learning about the Kaprekar number from Meena, his Maths teacher. She gave him a few random numbers and 
 asked him to find out whether they are Kaprekar number or not.
 (Consider an n-digit number k. Square it and add the right n digits to the left n or n-1 digits.
