@@ -28,6 +28,7 @@ Sample Input 1
 Sample Output 1
 2
 
+
 Python Code:
 
 def majority_element(nums):
