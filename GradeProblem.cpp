@@ -12,9 +12,7 @@ The locked code stubs will instantiate a Student object and will check the prope
 
 Sample Input For Custom Testing
 
-Function
-
-→ student_id = 1,
+Function→ student_id = 1,
 
 student_name 'Julia'=1
 
