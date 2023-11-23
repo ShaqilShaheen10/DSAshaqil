@@ -10,6 +10,7 @@ Second line contains 'N' single space separated integers representing the elemen
 
 Output Format
 Integer representing the answer of the problem statement.
+
 Sample Input 0
 6
 7 1 5 3 6 4
