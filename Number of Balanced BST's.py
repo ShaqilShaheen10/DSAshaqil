@@ -27,13 +27,15 @@ Sample Output 1
 
 Python Code:
 
+MOD = 10**9 + 7
 def count_balanced_binary_trees(h):
-    MOD = 10**9 + 7
+    if h == 0:
+        return 1
     dp = [0] * (h + 1)
     dp[0], dp[1] = 1, 1
     for i in range(2, h + 1):
-        dp[i] = (dp[i - 1] * ((2 * dp[i - 2]) % MOD + dp[i - 1]) % MOD) % MOD
+        dp[i] = (dp[i - 1] * (2 * dp[i - 2] + dp[i - 1])) % MOD
     return dp[h]
-h = int(input().strip())
+h = int(input())
 result = count_balanced_binary_trees(h)
 print(result)
