@@ -3,7 +3,6 @@ Mahe and Mani are playing a puzzle game with a given set of numbers. They need t
 Write a program to help them to solve the puzzle game.
 
 Input Format
-
 Input consists of n+1 integers. The first integer corresponds to ‘n’, the size of the array. The next ‘n’ integers correspond to the elements 
 in the array. Assume that the maximum value of n is 15.
 
